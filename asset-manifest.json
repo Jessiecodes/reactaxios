@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactaxios/static/css/main.9a9afc6c.chunk.css",
+    "main.js": "/reactaxios/static/js/main.63c9e551.chunk.js",
+    "main.js.map": "/reactaxios/static/js/main.63c9e551.chunk.js.map",
+    "runtime-main.js": "/reactaxios/static/js/runtime-main.66fda0f5.js",
+    "runtime-main.js.map": "/reactaxios/static/js/runtime-main.66fda0f5.js.map",
+    "static/js/2.12a73740.chunk.js": "/reactaxios/static/js/2.12a73740.chunk.js",
+    "static/js/2.12a73740.chunk.js.map": "/reactaxios/static/js/2.12a73740.chunk.js.map",
+    "index.html": "/reactaxios/index.html",
+    "precache-manifest.9ab17296efe2cff03bd9213f5ce620a1.js": "/reactaxios/precache-manifest.9ab17296efe2cff03bd9213f5ce620a1.js",
+    "service-worker.js": "/reactaxios/service-worker.js",
+    "static/css/main.9a9afc6c.chunk.css.map": "/reactaxios/static/css/main.9a9afc6c.chunk.css.map",
+    "static/js/2.12a73740.chunk.js.LICENSE.txt": "/reactaxios/static/js/2.12a73740.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/reactaxios/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66fda0f5.js",
+    "static/js/2.12a73740.chunk.js",
+    "static/css/main.9a9afc6c.chunk.css",
+    "static/js/main.63c9e551.chunk.js"
+  ]
+}
